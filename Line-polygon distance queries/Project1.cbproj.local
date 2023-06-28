@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/12 19:33:35.000.791,=C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/02/12 19:33:36.000.171,=C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/02/12 19:34:14.000.962,C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\AlmaBasicUKG\Forma.dfm=C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/02/12 19:34:14.000.962,C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\AlmaBasicUKG\Forma.cpp=C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/02/12 19:34:14.000.962,C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\AlmaBasicUKG\Forma.h=C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/02/12 19:35:11.000.558,=C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/02/12 19:35:18.000.871,C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\AlmaBasicUKG\pomocna.h=C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/02/12 19:35:18.000.871,C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\AlmaBasicUKG\pomocna.cpp=C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/02/13 00:32:40.000.625,C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\AlmaBasicUKG\Project1PCH1.h=C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/02/13 00:32:43.000.188,C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\AlmaBasicUKG\Project1.cbproj=C:\Users\BasicBug\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

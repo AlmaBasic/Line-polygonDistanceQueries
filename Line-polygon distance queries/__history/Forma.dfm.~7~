@@ -1,0 +1,57 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 535
+  ClientWidth = 816
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Slika: TImage
+    Left = 8
+    Top = 8
+    Width = 657
+    Height = 497
+    OnMouseDown = SlikaMouseDown
+  end
+  object GrahamScanDugme: TButton
+    Left = 8
+    Top = 511
+    Width = 75
+    Height = 25
+    Caption = 'Graham Scan'
+    TabOrder = 0
+    OnClick = GrahamScanDugmeClick
+  end
+  object dodavanjeTacakaRadio: TRadioButton
+    Left = 672
+    Top = 72
+    Width = 113
+    Height = 17
+    Caption = 'Dodavanje tacaka'
+    TabOrder = 1
+  end
+  object dodavanjePraveRadio: TRadioButton
+    Left = 672
+    Top = 104
+    Width = 113
+    Height = 17
+    Caption = 'Dodavanje prave'
+    TabOrder = 2
+  end
+  object NajbliziVrhDugme: TButton
+    Left = 104
+    Top = 511
+    Width = 75
+    Height = 25
+    Caption = 'Najblizi vrh'
+    TabOrder = 3
+    OnClick = NajbliziVrhDugmeClick
+  end
+end
